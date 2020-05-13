@@ -1,0 +1,23 @@
+{
+  "name": "uts_tansah",
+  "version": "1.0.0",
+  "description": "Aplikasi uts_tansah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tansahprayoga/uts_tansah.git"
+  },
+  "keywords": [
+    "uts_tansah",
+    "nodejs"
+  ],
+  "author": "tansah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tansahprayoga/uts_tansah/issues"
+  },
+  "homepage": "https://github.com/tansahprayoga/uts_tansah#readme"
+}
